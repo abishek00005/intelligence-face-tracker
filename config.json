@@ -1,0 +1,10 @@
+
+{
+    "video_path": "C:/Users/harih/OneDrive/Desktop/kattumaran proj/sample.mp4",
+    "face_model_path": "yolov8n-face.pt",
+    "output_video_path": "tracked_faces.mp4",
+    "device": "auto",
+    "confidence_threshold": 0.4,
+    "frames_to_skip": 0,
+    "tracker": "bytetrack.yaml"
+}
